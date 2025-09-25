@@ -1,5 +1,8 @@
 ## WASUPP!!🐈‍⬛
 
+
+Computer science student at leeds beckett university.
+
 <!--
 **Alireza-0098/Alireza-0098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
